@@ -1,8 +1,4 @@
 <?php
-/**
- * @package iPushPull_Embed_Page
- * @version 1.0
- */
 /*
 Plugin Name: iPushPull
 Plugin URI: http://wordpress.org/plugins/ipushpull/
