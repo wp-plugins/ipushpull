@@ -30,7 +30,7 @@ Choose who can see your data using our access controls. Keep it private or share
 Share live data between spreadsheets, whether they're in the same office or on opposite sides of the world. When your source sheet updates, all the remote sheets will update automatically, too. No need to save or refresh.
 
 * **Flexibility**
-Connect multiple different applications and devices. Quickly and easily combine data from multiple remote users into a single spreadsheet. No emailing or tedious manual cutting and pasting required. You control each user's view of the data – give them as much or as little access as they need.
+Connect multiple different applications and devices. Quickly and easily combine data from multiple remote users into a single spreadsheet. No emailing or tedious manual cutting and pasting required. You control each user's view of the data - give them as much or as little access as they need.
 
 * **Reach**
 Push your colleague or client specific live data out from your spreadsheets or database to multiple private web pages via our hosted web service. Give them access to view their private pages from anywhere via their desktop browser or mobile devices.
