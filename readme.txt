@@ -18,26 +18,6 @@ Use iPushPull to aggregate data from across your office network and to publish d
 
 iPushPull is cloud-based, so there's no complex installation. It's encrypted end-to-end, so it's secure. And our access tools let you control exactly who can see the different pages of data you're publishing.
 
-= iPushPull Features =
-
-* **Simplicity**
-Connect existing systems in a matter of minutes. iPushPull lets you effortlessly aggregate data from different sources across your business at the touch of a button.
-
-* **Security**
-Choose who can see your data using our access controls. Keep it private or share it with other iPushPull users. Your data is encrypted on our servers, but if it's extra-sensitive our client applications let you encrypt it before you send it.
-
-* **Speed**
-Share live data between spreadsheets, whether they're in the same office or on opposite sides of the world. When your source sheet updates, all the remote sheets will update automatically, too. No need to save or refresh.
-
-* **Flexibility**
-Connect multiple different applications and devices. Quickly and easily combine data from multiple remote users into a single spreadsheet. No emailing or tedious manual cutting and pasting required. You control each user's view of the data - give them as much or as little access as they need.
-
-* **Reach**
-Push your colleague or client specific live data out from your spreadsheets or database to multiple private web pages via our hosted web service. Give them access to view their private pages from anywhere via their desktop browser or mobile devices.
-
-* **Integration**
-Easily adjust look and feel to suit your brand. iPushPull pushes data, formatting and styles, letting you create custom web pages directly from your desktop applications. You can link pages, too, to create live updating, personalised mini-websites for you and your contacts. If your data isn't available in MS Excel, use our APIs to integrate iPushPull with your in-house systems.
-
 = iPushPull For WordPress =
 
 Sharing data is even easier with our embedded pages. You can simply embed any piece of your data into your website and together with our wordpress tools it couldn't be easier.
@@ -75,7 +55,25 @@ Design of the data itself is defined through iPushPull page, but you can change 
 
 `[ipushpull_page folder="test" page="test" height="300px"]`
 
-For more examples visit [iPushPull Blog](https://www.ipushpull.com/blog "iPushPull Blog")
+= iPushPull Features =
+
+* **Simplicity**
+Connect existing systems in a matter of minutes. iPushPull lets you effortlessly aggregate data from different sources across your business at the touch of a button.
+
+* **Security**
+Choose who can see your data using our access controls. Keep it private or share it with other iPushPull users. Your data is encrypted on our servers, but if it's extra-sensitive our client applications let you encrypt it before you send it.
+
+* **Speed**
+Share live data between spreadsheets, whether they're in the same office or on opposite sides of the world. When your source sheet updates, all the remote sheets will update automatically, too. No need to save or refresh.
+
+* **Flexibility**
+Connect multiple different applications and devices. Quickly and easily combine data from multiple remote users into a single spreadsheet. No emailing or tedious manual cutting and pasting required. You control each user's view of the data - give them as much or as little access as they need.
+
+* **Reach**
+Push your colleague or client specific live data out from your spreadsheets or database to multiple private web pages via our hosted web service. Give them access to view their private pages from anywhere via their desktop browser or mobile devices.
+
+* **Integration**
+Easily adjust look and feel to suit your brand. iPushPull pushes data, formatting and styles, letting you create custom web pages directly from your desktop applications. You can link pages, too, to create live updating, personalised mini-websites for you and your contacts. If your data isn't available in MS Excel, use our APIs to integrate iPushPull with your in-house systems.
 
 == Installation ==
 
