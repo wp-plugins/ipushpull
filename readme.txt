@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set of tools to connect iPushPull data to your wordpress site. Embed live updating data to your blog.
+Display live updating data from your desktop Microsoft Excel spreadsheets in your WordPress blog.
 
 == Description ==
 [iPushPull](https://www.ipushpull.com "iPushPull") links remote MS Excel spreadsheets and other applications and delivers live data across your devices.
