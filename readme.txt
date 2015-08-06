@@ -31,12 +31,12 @@ For more information please visit the [iPushPull website](https://www.ipushpull.
 = User Guide =
 When you sign up to iPushPull you create a **Folder** containing live data **Pages**. You can then push data to these pages from desktop Excel spreadsheets or any of the other client applications we support.
 
-## iPushPull Embed Shortcode ##
+### iPushPull Embed Shortcode ###
 This embeds the live data page you specify in your article (or other places WP shortcodes may be used such as widgets etc.)
 
 `[ipushpull_page parameters]`
 
-### Parameters ###
+#### Parameters ####
 * **folder** - *required* Name of iPushPull Folder
 * **page** - *required* Name of iPushPull Page
 * **width** - Width of embedded element (any css value)
@@ -45,7 +45,7 @@ This embeds the live data page you specify in your article (or other places WP s
 **Notes on parameters:**
 * width and height parameters can hold any value that follows css format - *px, *em, *vw, *%, auto, etc.
 
-## Identifiers ##
+### Identifiers ###
 If you want to reference your embedded iPushPull pages in your site code or css, the plugin generates unique identifiers for the for the html elements containing the embedded pages:
 
 * **id** - ippEmbedPage_folder_page (e.g. ippEmbedPage_MyCompany_PriceList)
@@ -53,10 +53,10 @@ If you want to reference your embedded iPushPull pages in your site code or css,
 
 Where "folder" and "page" are the Folder and Page names you've specified.
 
-## Styling ##
+### Styling ###
 The content of the embedded data replicates the styles you've specified in Excel (or whatever client application you've used to generate the data). You can change the style of the wrapping element itself. Every element containing an iPushPull page has the css class "**ipushpull_page**"
 
-## Examples ##
+### Examples ###
 
 `[ipushpull_page folder="my_folder_name" page="my_page_name" height="300px"]`
 
@@ -89,13 +89,13 @@ Now you can embed your live iPushPull pages throughout your WordPress site, lett
 For more information about iPushPull please visit the [iPushPull Support Centre](http://support.ipushpull.com "iPushPull Support").
 
 == FAQ ==
-== More Documentation ==
+= More Documentation =
 More documentation can be found at the [iPushPull Support Centre](http://support.ipushpull.com "iPushPull Support").
 
-== Can I see some live examples of Excel data updating in a blog post? ==
+= Can I see some live examples of Excel data updating in a blog post? =
 Sure - [this page](https://www.ipushpull.com/blog/links-ipushpull-pages/ "iPushPull blog") on the iPushPull WordPress blog includes several examples.
 
-== How do I embed live Excel spreadsheet data in my WordPress site? ==
+= How do I embed live Excel spreadsheet data in my WordPress site? =
 1. [Sign up for a free trial of iPushPull and download and install our Excel add-in](https://ipushpull.zendesk.com/hc/en-us/articles/202719062 "Sign Up to iPushPull and Install our Excel add-in")
 1. [Create an iPushPull Page and start pushing data to it from your desktop Excel](https://ipushpull.zendesk.com/hc/en-us/articles/202793621 "Push data to iPushPull")
 1. Embed the page in your WordPress site using the following shortcode:
