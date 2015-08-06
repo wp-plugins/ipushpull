@@ -58,7 +58,7 @@ If you want to reference your embedded iPushPull pages in your site code or css,
 Where "folder" and "page" are the Folder and Page names you've specified.
 
 ### Styling ###
-The content of the embedded data replicates the styles you've specified in Excel (or whatever client application you've used to generate the data). You can change the style of the wrapping element itself. Every element containing an iPushPull page has the css class "**ipushpull_page**"
+The content of the embedded data replicates the styles you've specified in Excel (or whatever client application you've used to generate the data). You can change the style of the wrapping element itself. Every element containing an iPushPull page has the css class "**ipushpull_page**".
 
 == Installation ==
 
@@ -88,9 +88,9 @@ You can install the iPushPull WordPress plugin using any of these standard metho
 Now you can embed your live iPushPull Pages throughout your WordPress site, letting you display live data from your desktop Excel spreadsheets. For more information about the tools and how to use them see the plugin Description.
 For more information about iPushPull please visit the [iPushPull Support Centre](http://support.ipushpull.com "iPushPull Support").
 
-== FAQ ==
+== Frequently Asked Questions ==
 
-= More Documentation =
+= How do I find out more? =
 More documentation can be found at the [iPushPull Support Centre](http://support.ipushpull.com "iPushPull Support").
 
 = Can I see some live examples of Excel data updating in a blog post? =
@@ -101,6 +101,11 @@ Sure - [this page](https://www.ipushpull.com/blog/links-ipushpull-pages/ "iPushP
 1. [Create an iPushPull Page and start pushing data to it from your desktop Excel](https://ipushpull.zendesk.com/hc/en-us/articles/202793621 "Push data to iPushPull")
 1. Embed the page in your WordPress site using the following shortcode:
 `[ipushpull_page folder="my_folder_name" page="my_page_name" height="300px"]`
+
+== Screenshots ==
+
+1. Live data from an Excel spreadsheet embedded in the iPushPull WordPress blog.
+2. Static data from an Excel spreadsheet, showing the range of links you can embed in your pages.
 
 == Changelog ==
 
