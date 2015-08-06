@@ -26,12 +26,12 @@ Take a look at [this page on the iPushPull blog](https://www.ipushpull.com/blog/
 = What is iPushPull? =
 [iPushPull](https://www.ipushpull.com "iPushPull") lets you share live content between desktop Excel spreadsheets and publish it on the web. The iPushPull WordPress plugin lets you easily embed the spreadsheet data you're sharing in your WordPress site. You'll need an iPushPull account to use it - if you don't have one yet, [sign up now for a free trial](https://www.ipushpull.com/site/signup.html?package=trial "Sign up!").
 
-For more information please visit the [iPushPull website](https://www.ipushpull.com/ "iPushPull") or the [iPushPull Help and Support Centre](https://ipushpull.zendesk.com/hc/en-us "iPushPull Support Centre"). 
+For more information please visit the [iPushPull website](https://www.ipushpull.com/ "iPushPull") and the [iPushPull Help and Support Centre](https://ipushpull.zendesk.com/hc/en-us "iPushPull Support Centre"). 
 
 = User Guide =
 When you sign up to iPushPull you create a **Folder** containing live data **Pages**. You can then push data to these pages from desktop Excel spreadsheets or any of the other client applications we support.
 
-*iPushPull Embed Shortcode*
+### iPushPull Embed Shortcode ###
 This embeds the live data page you specify in your article (or other places WP shortcodes may be used such as widgets etc.)
 
 `[ipushpull_page parameters]`
@@ -85,10 +85,11 @@ You can install the iPushPull WordPress plugin using any of these standard metho
 1. Click on *Activate Plugin* link below the plugin title
 
 = After installation =
-Now you can embed your live iPushPull pages throughout your WordPress site, letting you display live data from your desktop Excel spreadsheets. For more information about the tools and how to use them see the plugin Description.
+Now you can embed your live iPushPull Pages throughout your WordPress site, letting you display live data from your desktop Excel spreadsheets. For more information about the tools and how to use them see the plugin Description.
 For more information about iPushPull please visit the [iPushPull Support Centre](http://support.ipushpull.com "iPushPull Support").
 
 == FAQ ==
+
 = More Documentation =
 More documentation can be found at the [iPushPull Support Centre](http://support.ipushpull.com "iPushPull Support").
 
