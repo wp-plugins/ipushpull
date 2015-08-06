@@ -50,7 +50,7 @@ This embeds the live data page you specify in your article (or other places WP s
 `[ipushpull_page folder="my_folder_name" page="my_page_name" height="300px"]`
 
 ### Identifiers ###
-If you want to reference your embedded iPushPull pages in your site code or css, the plugin generates unique identifiers for the for the html elements containing the embedded pages:
+If you want to reference your embedded iPushPull pages in your site code or css, the plugin generates unique identifiers for the html elements containing the embedded pages:
 
 * **id** - ippEmbedPage_folder_page (e.g. ippEmbedPage_MyCompany_PriceList)
 * **name** - ipp_page_folder_page (e.g. ipp_page_MyCompany_PriceList)
