@@ -21,7 +21,7 @@ The iPushPull WordPress plugin makes it easy to display live updating data from 
 * Data can be public or password protected
 
 = Examples =
-Take a look at [this page on the iPushPull blog](https://www.ipushpull.com/blog/links-ipushpull-pages/ "iPushPull blog") to see the plugin in action. 
+Take a look at [this page on the iPushPull blog](https://www.ipushpull.com/blog/wordpress-plugin/ "iPushPull blog") to see the plugin in action. 
 
 = What is iPushPull? =
 [iPushPull](https://www.ipushpull.com "iPushPull") lets you share live content between desktop Excel spreadsheets and publish it on the web. The iPushPull WordPress plugin lets you easily embed the spreadsheet data you're sharing in your WordPress site. You'll need an iPushPull account to use it - if you don't have one yet, [sign up now for a free trial](https://www.ipushpull.com/site/signup.html?package=trial "Sign up!").
@@ -94,7 +94,7 @@ For more information about iPushPull please visit the [iPushPull Support Centre]
 More documentation can be found at the [iPushPull Support Centre](http://support.ipushpull.com "iPushPull Support").
 
 = Can I see some live examples of Excel data updating in a blog post? =
-Sure - [this page](https://www.ipushpull.com/blog/links-ipushpull-pages/ "iPushPull blog") on the iPushPull WordPress blog includes several examples.
+Sure - [this page](https://www.ipushpull.com/blog/wordpress-plugin/ "iPushPull blog") on the iPushPull WordPress blog includes several examples.
 
 = How do I embed live Excel spreadsheet data in my WordPress site? =
 1. [Sign up for a free trial of iPushPull and download and install our Excel add-in](https://ipushpull.zendesk.com/hc/en-us/articles/202719062 "Sign Up to iPushPull and Install our Excel add-in")
