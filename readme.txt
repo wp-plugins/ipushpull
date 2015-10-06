@@ -14,7 +14,7 @@ The iPushPull WordPress plugin makes it easy to display live updating data from 
 
 = Features =
 * Display the latest data from your desktop spreadsheets in your WordPress pages
-* You don't to save the source spreadsheet to update the data
+* You don't need to save the source spreadsheet to update the data
 * Your content updates automatically - the reader does not need to refresh the browser to get the latest update
 * You choose the range of cells that gets displayed
 * You control the update frequency - every few seconds, every hour, every day
@@ -48,6 +48,10 @@ This embeds the live data page you specify in your article (or other places WP s
 ### Example ###
 
 `[ipushpull_page folder="my_folder_name" page="my_page_name" height="300px"]`
+
+To try this out without signing up to iPushPull first, use the following demo page that we keep constantly updated:
+
+`[ipushpull_page folder="DemoExcelUsers" page="BlogSummary" height="325px"]`
 
 ### Identifiers ###
 If you want to reference your embedded iPushPull pages in your site code or css, the plugin generates unique identifiers for the html elements containing the embedded pages:
@@ -101,6 +105,11 @@ Sure - [this page](https://www.ipushpull.com/blog/wordpress-plugin/ "iPushPull b
 1. [Create an iPushPull Page and start pushing data to it from your desktop Excel](https://ipushpull.zendesk.com/hc/en-us/articles/202793621 "Push data to iPushPull")
 1. Embed the page in your WordPress site using the following shortcode:
 `[ipushpull_page folder="my_folder_name" page="my_page_name" height="300px"]`
+
+= Is there some test data that I can use without having to sign up to iPushPull first? =
+Yes - we have a demo iPushPull page that is constantly being updated. It's in the folder *DemoExcelUsers* and is called *BlogSummary*. You can embed this in your WordPress page using the following shortcode:
+
+`[ipushpull_page folder="DemoExcelUsers" page="BlogSummary" height="325px"]`
 
 == Screenshots ==
 
